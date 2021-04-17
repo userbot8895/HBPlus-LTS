@@ -3,6 +3,10 @@ Long-term support version of [HyperBot++](https://github.com/userbot8895/HyperBo
 
 Each time HyperBot++ is updated to support a new major version of HyperUBot, the current version of ++ is released here.
 
+Or, visually,
+
+![image](ltsgraph.png)
+
 ## Versions
 |  Repo  |     ++ version     | Bot version |
 |:------:|:------------------:|-------------|
