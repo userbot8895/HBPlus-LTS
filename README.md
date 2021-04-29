@@ -16,5 +16,5 @@ The installation procedure is the same as the one for the [stable version](https
 ## Versions
 |  Repo  |     ++ version     | Bot version |
 |:------:|:------------------:|-------------|
-| Stable | 2021.4 for HUB 4.x | 4.0         |
+| Stable | 2021.4 for HUB 4.x | 4.1         |
 |   LTS  | 2021.3 for HUB 3.x | 3.0.4       |
