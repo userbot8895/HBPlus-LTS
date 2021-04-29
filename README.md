@@ -7,6 +7,12 @@ Or, visually,
 
 ![image](ltsgraph.png)
 
+## Installation
+The installation procedure is the same as the one for the [stable version](https://github.com/userbot8895/HyperBot-Plus/blob/master/guides/Install.md), with these differences:
+
+- HyperBot++ LTS doesn't (yet) have HyperBot++ Setup.
+- Instead of adding `userbot8895/HyperBot-Plus` as a repo add `userbot8895/HBPlus-LTS`.
+
 ## Versions
 |  Repo  |     ++ version     | Bot version |
 |:------:|:------------------:|-------------|
