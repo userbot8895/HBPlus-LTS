@@ -1,4 +1,4 @@
-# HyperBot++ LTS ![Download counter](https://img.shields.io/github/downloads/userbot8895/HBPlus-LTS/latest/total?color=%23aaaaa)
+# HyperBot++ LTS ![Download counter](https://img.shields.io/github/downloads/userbot8895/HBPlus-LTS/latest/total?color=%23aaaaa&label=downloads)
 Long-term support version of [HyperBot++](https://github.com/userbot8895/HyperBot-Plus).
 
 Each time HyperBot++ is updated to support a new major version of HyperUBot, the current version of ++ is released here.
