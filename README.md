@@ -1,3 +1,5 @@
+# HUB++ has been discontinued, see [this](https://t.me/pawneeupdates/127)
+
 # HUB++ LTS ![Download counter](https://img.shields.io/github/downloads/userbot8895/HBPlus-LTS/latest/total?color=%23aaaaa&label=downloads)
 Long-term support version of [HUB++](https://github.com/userbot8895/HUB-Plus).
 
